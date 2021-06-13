@@ -4,3 +4,23 @@
 .name2 {
     color: red;
 }
+.insta__login {
+text-align: center;
+}
+
+.parent {
+    background-color: royalblue;
+    padding: 10px;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+.parent__img {
+    width: 800px;
+    height: 200px;
+}
+.button {
+    color: royalblue ;
+}
